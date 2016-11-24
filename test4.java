@@ -1,7 +1,6 @@
 package test;
 
 public class test4 {
-
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Monster [] ma= new Monster[3];
@@ -12,7 +11,6 @@ public class test4 {
 			ma[x].frighten(x);
 		}
 	}
-
 }
 class Monster{
 	boolean frighten(int x){

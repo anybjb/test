@@ -1,7 +1,6 @@
 package test;
 
 public class test3 {
-
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		A a=new A();
@@ -12,7 +11,6 @@ public class test3 {
 		a2.m2();
 		a2.m3();
 	}
-
 }
 class A{
 	int ivar=7;

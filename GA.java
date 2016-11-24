@@ -21,8 +21,6 @@ public class GA {
     public static double[] p = new double[POP_SIZE];// 轮盘赌方法个体适应度概率  
     public static double[] q = new double[POP_SIZE];// q[i]是前n项p之和  
     int k1,k2;  //被选出来杂交的两个个体     
-  
-  
     /* 
      * 构造方法，初始化种群 
      */  
